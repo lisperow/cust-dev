@@ -6,6 +6,7 @@ sysProps.xml
 workbench.xmi
 .cache/
 node_modules/
+
 # IDE
 *.ipr
 *.iml
