@@ -1,1 +1,1 @@
-console.log('Hello, Parsel!');
+console.log('Hello!');
